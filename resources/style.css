@@ -46,7 +46,7 @@ a {
 }
 
 .main {
-  padding-top: 70px;
+  padding-top: 100px;
   width: 1200px;
   margin: auto;
 }
@@ -115,4 +115,14 @@ a {
 
 .location p {
   padding: 10px;
+}
+
+#contact {
+  height: 200px;
+}
+
+footer h5 {
+  text-align: left;
+  padding: 20px;
+  font-weight: bold;
 }
